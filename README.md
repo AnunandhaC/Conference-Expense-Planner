@@ -2,6 +2,8 @@
 
 A modern React + Vite web app for planning conference event costs. Users can browse venue options, add AV equipment and meal selections, and view a live total cost summary for their event.
 
+# Check it out: https://anunandhac.github.io/Conference-Expense-Planner/
+
 ## Features
 
 - Select a conference venue from multiple options
